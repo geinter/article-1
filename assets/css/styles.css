@@ -121,4 +121,5 @@ ul li {
 
 figure img {
   max-width: 60%;
+  min-width: 60%;
 }
